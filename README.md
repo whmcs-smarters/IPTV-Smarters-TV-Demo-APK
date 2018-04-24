@@ -1,4 +1,4 @@
-# IPTV-Smarters-TV-Demo-APK Version 1.2
+# IPTV-Smarters-TV-Demo-APK Version 1.3
 
 Make sure you have ordered a demo from our website [here](https://www.whmcssmarters.com/android-app-for-xtream-codes-iptv-smarters/)
 
