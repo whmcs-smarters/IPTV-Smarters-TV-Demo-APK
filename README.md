@@ -19,8 +19,8 @@ Changelog :
 
 - Support **4k Movies & h265 Codeces** Supported
 
-- **Play with External Player** - [Watch a Video](https://www.dropbox.com/s/2vowzrtbzxy3yu9/playwithexternal.mp4?dl=0)  |  [Screenshot](https://www.dropbox.com/s/z3dcias420j0kpe/PlaywithExternal.jpeg?dl=0)
-(Long Press on the channel it will give the option to play with external player)
+- **Play with External Players** - [Watch a Video](https://www.dropbox.com/s/2vowzrtbzxy3yu9/playwithexternal.mp4?dl=0)  |  [Screenshot](https://www.dropbox.com/s/z3dcias420j0kpe/PlaywithExternal.jpeg?dl=0)
+(Long Press on the channel it will give the option to play with the external player)
 
 - Jump to channel by channel number from the Remote [Short Video](https://www.dropbox.com/s/qdhbaiw9a318gcn/channel-number.mp4?dl=0)
 
@@ -28,7 +28,7 @@ Changelog :
 
 - Focus/ Selection by remove on Player Icon - [Screenshot](https://www.dropbox.com/s/xhd8mb2iz7df8qa/focus.jpeg?dl=0) | [Short Video](https://www.dropbox.com/s/a8ralflb95erm21/focus%3Aclicking%20by%20remote%20on%20player.mp4?dl=0)
 
-- Get Option Meny by Remote button ( Option Menu button ) - [Short Video](https://www.dropbox.com/s/4bm3g1mhnbn87qp/options-menu.mp4?dl=0)
+- Get Menu Option by the Remote button ( Option Menu button ) - [Short Video](https://www.dropbox.com/s/4bm3g1mhnbn87qp/options-menu.mp4?dl=0)
 
 - Fast Loading & Channel Zapping 
 
