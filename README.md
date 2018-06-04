@@ -9,6 +9,8 @@ Enter your username and password that you have submitted while ordering
 
 ## [Download Demo APK here](https://www.whmcssmarters.com/clients/dl.php?type=d&id=59)
 
+## [Available on Play Store](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox)
+
 Changelog : 
 
 - **Subtitle Track & Audio Dual Track Supported**
