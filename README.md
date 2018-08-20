@@ -7,6 +7,7 @@
 - Sorting options for Categories 
 - Sorting features for Live 
 - Reconnects recording if it fails 
+- Recording in SD Card and External/Internal Storage
 - Arabic RTL support
 - Movies Info Section Improved 
 - Player Selection - It gives the ability to change the media player permanently from the setting sections 
