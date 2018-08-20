@@ -1,3 +1,27 @@
+# IPTV Smarters Pro (TV Box Edition  ) - v1.6 released Out ! 
+
+- **Watch Trailer** - ability to watch the trailer for Movies and Series as well. 
+- **Recently Watched** - New Section that will have the movies or series that has been watched. 
+- **Resuming Video**  - it brings the ability for user to resume the video where they left it before. 
+- **Hardware and Software Recording ( Major Update)** - Now, we have updated our native player that support hardware and software decoding. 
+- Sorting options for Categories 
+- Sorting features for Live 
+- Reconnects recording if it fails 
+- Arabic RTL support
+- Movies Info Section Improved 
+- Player Selection - It gives the ability to change the media player permanently from the setting sections 
+
+**To get a demo v1.6 Please following the steps:**
+
+- Place an order ( free Demo ) - https://www.whmcssmarters.com/clients/cart.php?a=add&pid=122
+- Enter the streamline username/password and Server URL with Port while placing the order. 
+- and download the apk file from the link below or you can get it anytime from your client area. 
+
+## [Download Demo APK v1.6](https://www.whmcssmarters.com/clients/dl.php?type=d&id=59)
+
+==================================================================
+
+
 # IPTV Smarters - TV Box ( New App ) - v1.4 released Out ! 
 
 Make sure you have ordered a demo from our website [here](https://www.whmcssmarters.com/android-app-for-xtream-codes-iptv-smarters/)
