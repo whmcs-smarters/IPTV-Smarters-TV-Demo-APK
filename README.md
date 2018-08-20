@@ -10,6 +10,7 @@
 - Arabic RTL support
 - Movies Info Section Improved 
 - Player Selection - It gives the ability to change the media player permanently from the setting sections 
+- APK File Size optimisation + Bugs like No audion, audio out of sync etc fixed. 
 
 **To get a demo v1.6 Please following the steps:**
 
