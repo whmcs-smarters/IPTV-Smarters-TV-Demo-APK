@@ -9,6 +9,7 @@
 - Reconnects recording if it fails 
 - Recording in SD Card and External/Internal Storage
 - Arabic RTL support
+- Notification feature
 - Movies Info Section Improved 
 - Player Selection - It gives the ability to change the media player permanently from the setting sections 
 - APK File Size optimisation + Bugs like No audion, audio out of sync etc fixed. 
