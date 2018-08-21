@@ -3,7 +3,7 @@
 - **Watch Trailer** - ability to watch the trailer for Movies and Series as well. 
 - **Recently Watched** - New Section that will have the movies that has been watched. 
 - **Resuming Video**  - it brings the ability for user to resume the video where they left it before. 
-- **Hardware and Software Recording ( Major Update)** - Now, we have updated our native player that support hardware and software decoding. 
+- **Hardware and Software Decoding ( Major Update)** - Now, we have updated our native player that support hardware and software decoding. 
 - Sorting options for Categories 
 - Sorting features for Live 
 - Reconnects recording if it fails 
