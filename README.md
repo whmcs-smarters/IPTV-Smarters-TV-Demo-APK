@@ -14,13 +14,9 @@
 - Player Selection - It gives the ability to change the media player permanently from the setting sections 
 - APK File Size optimisation + Bugs like No audion, audio out of sync etc fixed. 
 
-**To get a demo v1.6 Please following the steps:**
+Now, it's available on Google Store : 
 
-- Place an order ( free Demo ) - https://www.whmcssmarters.com/clients/cart.php?a=add&pid=122
-- Enter the streamline username/password and Server URL with Port while placing the order. 
-- and download the apk file from the link below or you can get it anytime from your client area. 
-
-## [Download Demo APK v1.6](https://www.whmcssmarters.com/clients/dl.php?type=d&id=59)
+## [Download Demo APK v1.6](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox)
 
 ==================================================================
 
