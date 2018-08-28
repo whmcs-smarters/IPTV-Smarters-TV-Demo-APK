@@ -16,7 +16,8 @@
 
 Now, it's available on Google Store : 
 
-## [Download Demo APK v1.6](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox)
+## [Download the App v1.6](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox)
+
 
 ==================================================================
 
