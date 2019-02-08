@@ -1,3 +1,24 @@
+# IPTV Smarters Pro (TV Box Edition  ) - v2.0 released Out ! 
+
+New Features : 
+
+* Chrome Cast Support
+* Support HTTPs Streams
+* Media Player Improvements (Fast Zapping, Playback buffer feature added, Freezing issue fixed etc)
+* Any External Players can be added from the device for playing streams
+* Ability to set different Media Player for Live, Movies, Series etc
+* Ability to show/hide entered password ( with an eye icon)
+* EPG Improvements - Loading EPG Very fast 
+* Fixed EPG Installation Error ( Network's Error Fixed that happened due to Heavy EPG Data)
+* Ability to adding Fav from EPG Screen
+* Play block streaming(ts) in an update by Xtream-Codes ( Some ISPs blocking the .ts format so now it supports direct stream URL without /live and. ts )
+* New Languages Support Added (Romania, Hungary)
+## [Download the App v2.0](https://drive.google.com/file/d/1d2tgRkHni9mU3NTDu3ms7cxes-bH910x/view?usp=sharing)
+
+
+
+
+
 # IPTV Smarters Pro (TV Box Edition  ) - v1.6 released Out ! 
 
 - **Watch Trailer** - ability to watch the trailer for Movies and Series as well. 
